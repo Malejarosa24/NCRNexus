@@ -4,7 +4,7 @@ Sistema web de soporte técnico desarrollado con JSP, Servlets y MySQL para la g
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Java
 - JSP
@@ -17,7 +17,7 @@ Sistema web de soporte técnico desarrollado con JSP, Servlets y MySQL para la g
 
 ---
 
-## ⚙ Funcionalidades
+## Funcionalidades
 
 ✅ Registrar tickets  
 ✅ Actualizar tickets desde MySQL  
@@ -28,7 +28,7 @@ Sistema web de soporte técnico desarrollado con JSP, Servlets y MySQL para la g
 
 ---
 
-## 🗄 Base de datos
+## Base de datos
 
 Base de datos:
 
@@ -44,7 +44,7 @@ tickets
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
 
@@ -68,7 +68,7 @@ ncrnexus
 
 ---
 
-## 👩‍💻 Autor
-
+## Autor
+Maria De la Rosa
 Maleja Rosa  
 SENA - ADSO
