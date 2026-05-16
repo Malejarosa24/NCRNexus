@@ -69,6 +69,5 @@ ncrnexus
 ---
 
 ## Autor
-Maria De la Rosa
 Maleja Rosa  
 SENA - ADSO
